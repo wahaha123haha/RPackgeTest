@@ -1,0 +1,14 @@
+Package: AnalysisPackage
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Jiatong Wu (12449315) & Miao Mou (12486390)
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: The 'AnalysisPackage' is a custom R package that provides a collection 
+             of useful functions for statistical data exploration and analysis. 
+             It includes functions for data cleaning, summary statistics calculation, and plot.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2
